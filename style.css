@@ -3,7 +3,10 @@
   text-align: center;
 }
 
+/*I wanted to start broad in the beginning and then work on specific details after*/
+
 header{background-color: #4F6D7A;}
+/*I wanted the header background color to be different from the rest of the page*/
 
 img{
   width: 300px;
@@ -17,7 +20,7 @@ h1{
   color: #2C0E37;
 }
 
-/*Lato is visually pleasing to me, but I need to explore more font options*/
+/*Lato is visually pleasing to me, but I need to explore more font options.*/
 
 h3{
   font-family: Lato, Serif;
@@ -36,6 +39,7 @@ h2{
 }
 
 .align-center{text-align: center;}
+/*Created this CSS class because the specific line worked better centered.*/
 
 p{
   font-family: Georgia, sans-serif;
@@ -46,7 +50,7 @@ p{
 }
 
 /*
-There is something about the "About" paragraph alignment that doesn't sit well with me. I am not entirely sure what I should do differently here.
+Something about the "About" paragraph alignment doesn't sit well with me. I am not entirely sure what I should do differently here.
 */
 
 ul{
@@ -64,7 +68,7 @@ ol{
 }
 
 hr{height: 10px;}
-/*I would like to explore border styles more in future*/
+/*I would like to explore border styles and editing more in future*/
 
 a:link{color: blue;}
 a:visited{color: indigo;}
