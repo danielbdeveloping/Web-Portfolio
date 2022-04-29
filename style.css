@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+header{background-color: #4F6D7A;}
+
+img{
+  width: 300px;
+  border-radius: 10%;
+  margin-top: 10px;
+}
+
+h1{
+  font-family: Lato, Serif;
+  font-size: 72px;
+  color: #2C0E37;
+}
+
+/*Lato is visually pleasing to me, but I need to explore more font options*/
+
+h3{
+  font-family: Lato, Serif;
+  font-size: 24px;
+  padding-bottom: 30px;
+}
+
+nav {
+  font-family: Georgia, sans-serif;}
+
+body{background-color: #E3DFFF;}
+
+h2{
+  font-family: Lato, Serif;
+  font-size: 32px;
+}
+
+.align-center{text-align: center;}
+
+p{
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  text-align: justify;
+  padding: 50px;
+  line-height: 50px;
+}
+
+/*
+There is something about the "About" paragraph alignment that doesn't sit well with me. I am not entirely sure what I should do differently here.
+*/
+
+ul{
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  list-style-position: inside;
+  line-height: 50px
+}
+
+ol{
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+  list-style-position: inside;
+}
+
+hr{height: 10px;}
+/*I would like to explore border styles more in future*/
+
+a:link{color: blue;}
+a:visited{color: indigo;}
+a:hover{color: green;}
+a:active{color: red;}
