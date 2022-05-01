@@ -70,7 +70,7 @@ ol{
 hr{height: 10px;}
 /*I would like to explore border styles and editing more in future*/
 
-a:link{color: blue;}
+a:link{color: #00FFFF;}
 a:visited{color: #7B68EE;}
 a:hover{color: yellow;}
 a:active{color: red;}
