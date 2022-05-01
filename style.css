@@ -71,6 +71,7 @@ hr{height: 10px;}
 /*I would like to explore border styles and editing more in future*/
 
 a:link{color: blue;}
-a:visited{color: indigo;}
-a:hover{color: green;}
+a:visited{color: #7B68EE;}
+a:hover{color: yellow;}
 a:active{color: red;}
+/*Color scheme may be a bit unusual, but I feel the contrast is better*/
