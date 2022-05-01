@@ -29,7 +29,10 @@ h3{
 }
 
 nav {
-  font-family: Georgia, sans-serif;}
+  font-family: Georgia, sans-serif;
+  font-size: 18px;
+
+}
 
 body{background-color: #E3DFFF;}
 
