@@ -5,7 +5,7 @@
 
 /*I wanted to start broad in the beginning and then work on specific details after*/
 
-header{background-color: #4F6D7A;}
+header{background-color: #D3E0E3;}
 /*I wanted the header background color to be different from the rest of the page*/
 
 img{
@@ -72,8 +72,8 @@ ol{
 hr{height: 10px;}
 /*I would like to explore border styles and editing more in future*/
 
-a:link{color: #1E90FF;}
-a:visited{color: #FF00FF;}
-a:hover{color: yellow;}
-a:active{color: red;}
+a:link{color: #004285;}
+a:visited{color: #700070;}
+a:hover{color: #3D3D00;}
+a:active{color: #850000;}
 /*Color scheme may be a bit unusual, but I feel the contrast is better*/
